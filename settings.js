@@ -18,10 +18,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['918548062392']
+global.owner = ['917561852787']
 global.premium = ['918548062392']
-global.ownernomer = '918548062392'
-global.ownername = '𝑺𝑶𝑼𝑳 𝑹𝑬𝑩𝑬𝑳'
+global.ownernomer = ''
+global.ownername = ' 𝑹𝑬𝑩𝑬𝑳'
 global.botname = '𝑹𝑬𝑩𝑬𝑳 𝑺𝑬𝑹 𝑩𝑶𝑻'
 global.caption = 'ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ'
 global.footer = '© sᴇʀ ʀᴇʙᴇʟ ™'
